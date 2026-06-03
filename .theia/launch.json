@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gpio_toggle_output--test",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "gpio_toggle_output--test",
+                "resourceId": "/gpio_toggle_output--test"
+            }
+        },
+        {
+            "name": "uart_echo_interrupts_standby--test",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "uart_echo_interrupts_standby--test",
+                "resourceId": "/uart_echo_interrupts_standby--test"
+            }
+        },
+        {
+            "name": "uart_echo_interrupts_standby (1)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "uart_echo_interrupts_standby",
+                "resourceId": "/uart_echo_interrupts_standby"
+            }
+        }
+    ]
+}
