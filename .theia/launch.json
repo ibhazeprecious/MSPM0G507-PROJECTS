@@ -36,6 +36,15 @@
                 "name": "adc12_single_conversion_vref_internal---test",
                 "resourceId": "/adc12_single_conversion_vref_internal---test"
             }
+        },
+        {
+            "name": "adc12_internal_temp_sensor_mathacl---test",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "adc12_internal_temp_sensor_mathacl---test",
+                "resourceId": "/adc12_internal_temp_sensor_mathacl---test"
+            }
         }
     ]
 }
